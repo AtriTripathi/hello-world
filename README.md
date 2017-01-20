@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans,
+Making my first edit on GitHub
+-Atri
